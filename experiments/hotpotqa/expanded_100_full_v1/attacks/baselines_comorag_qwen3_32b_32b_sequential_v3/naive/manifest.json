@@ -1,0 +1,14 @@
+{
+  "prompt_version": "kidnaprag_naive_v1",
+  "document_strategy": "naive",
+  "attack_goal": "targeted_hijacking",
+  "workflow": "comorag",
+  "attacker_model": "Qwen/Qwen3-32B",
+  "trajectory_file": "/home/zpc/projects/RAG/PwmRAG/experiments/hotpotqa/expanded_100_full_v1/attacks/comorag_qwen3_32b_sequential_v3_clean_trajectories.jsonl",
+  "trajectory_file_sha256": "fe55e7d6aad2e438cf9f826b080fcaaf4fb046e5ab26c17406ae11ee30b2e81f",
+  "selected": 100,
+  "generated": 100,
+  "skipped": 0,
+  "errors": 0,
+  "results_file": "/home/zpc/projects/RAG/PwmRAG/experiments/hotpotqa/expanded_100_full_v1/attacks/baselines_comorag_qwen3_32b_32b_sequential_v3/naive/generation_results.jsonl"
+}

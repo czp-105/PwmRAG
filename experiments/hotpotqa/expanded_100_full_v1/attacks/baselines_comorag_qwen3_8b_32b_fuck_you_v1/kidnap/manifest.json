@@ -1,0 +1,16 @@
+{
+  "prompt_version": "kidnap_baseline_v3",
+  "document_strategy": "kidnap_baseline",
+  "attack_goal": "targeted_hijacking",
+  "workflow": "comorag",
+  "attacker_model": "Qwen/Qwen3-32B",
+  "trajectory_file": "/home/zpc/projects/RAG/PwmRAG/experiments/hotpotqa/expanded_100_full_v1/attacks/comorag_qwen3_8b_clean_trajectories.jsonl",
+  "trajectory_file_sha256": "abbf0d31ddd8643996e41f3b531846af3d688e27f25ff0e1d112257521b68ba9",
+  "selected": 100,
+  "generated": 100,
+  "skipped": 0,
+  "errors": 0,
+  "results_file": "experiments/hotpotqa/expanded_100_full_v1/attacks/baselines_comorag_qwen3_8b_32b_fuck_you_v1/kidnap/generation_results.jsonl",
+  "kidnap_scenario": "BCCM",
+  "shared_documents": 15
+}

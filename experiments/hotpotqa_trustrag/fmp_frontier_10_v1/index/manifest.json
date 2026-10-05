@@ -1,0 +1,6 @@
+{
+  "model": "intfloat/e5-large-v2",
+  "corpus_sha256": "164e9cd43454d6357698fabdabc6ef4b29996b6c9e30d200dc3beffcbcd435a0",
+  "documents": 9811,
+  "embedding_dim": 1024
+}

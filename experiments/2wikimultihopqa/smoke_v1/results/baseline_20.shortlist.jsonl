@@ -1,0 +1,2 @@
+{"id": "a8d938b80bda11eba7f7acde48001122", "question": "Where was the place of burial of Princess Augusta Of Württemberg's father?", "gold_answer": "Württemberg Mausoleum", "support_ids": ["2459", "5486"], "baseline_run": "baseline_20", "retrieval_steps": 2}
+{"id": "98f734a60bdd11eba7f7acde48001122", "question": "Where was the place of death of Amaury De Montfort (Died 1241)'s father?", "gold_answer": "Toulouse", "support_ids": ["2397", "2398"], "baseline_run": "baseline_20", "retrieval_steps": 2}

@@ -1,0 +1,8 @@
+{
+  "dataset": "hotpotqa",
+  "source": "/home/zpc/projects/RAG/PwmRAG/datasets/hotpotqa",
+  "seed": 42,
+  "questions": 100,
+  "documents": 9811,
+  "selection": "two-support questions plus random distractors"
+}

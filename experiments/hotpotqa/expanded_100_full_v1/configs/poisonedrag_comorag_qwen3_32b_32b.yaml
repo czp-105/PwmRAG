@@ -1,0 +1,7 @@
+workflow: comorag
+document_strategy: poisonedRAG
+attack_goal: targeted_hijacking
+victim_model: Qwen/Qwen3-32B
+victim_device: cuda:0
+attacker_model: Qwen/Qwen3-32B
+attacker_device: cuda:0

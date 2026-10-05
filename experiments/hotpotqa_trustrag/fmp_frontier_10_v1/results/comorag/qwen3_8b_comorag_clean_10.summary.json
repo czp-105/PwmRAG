@@ -1,0 +1,36 @@
+{
+  "dataset": "hotpotqa_trustrag",
+  "workflow": "comorag_single_channel_clean",
+  "source": "/home/zpc/projects/RAG/TrustRAG",
+  "seed": 42,
+  "sample_documents": 9811,
+  "sample_dir": "experiments/hotpotqa_trustrag/fmp_frontier_10_v1/data",
+  "index_dir": "experiments/hotpotqa_trustrag/fmp_frontier_10_v1/index",
+  "retriever_model": "intfloat/e5-large-v2",
+  "generator_model": "Qwen/Qwen3-8B",
+  "questions": 10,
+  "question_ids": [
+    "5adbf0a255429947ff17385a",
+    "5a8cb288554299585d9e3726",
+    "5ab56e32554299637185c594",
+    "5ab29c24554299449642c932",
+    "5a8133725542995ce29dcbdb",
+    "5ae6050f55429929b0807a5e",
+    "5ae2070a5542994d89d5b313",
+    "5ae22b8d554299234fd0440f",
+    "5a722b8655429971e9dc9329",
+    "5adf37a95542995ec70e8f97"
+  ],
+  "correct": 6,
+  "f1": 0.6857142857142857,
+  "any_support_seen_questions": 10,
+  "all_support_seen_questions": 9,
+  "stop_reasons": {
+    "answered": 9,
+    "max_iterations": 1
+  },
+  "errors": 0,
+  "top_k": 5,
+  "max_iterations": 5,
+  "max_new_tokens": 512
+}

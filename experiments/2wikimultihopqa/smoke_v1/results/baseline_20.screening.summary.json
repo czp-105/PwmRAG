@@ -1,0 +1,14 @@
+{
+  "source": "/home/zpc/projects/RAG/PwmRAG/experiments/2wikimultihopqa/smoke_v1/results/baseline_20.jsonl",
+  "criteria": "exact match; >=2 retrievals; all support docs seen; model stopped; no error",
+  "total": 20,
+  "correct": 9,
+  "at_least_two_retrievals": 9,
+  "automatic_candidates": [
+    "931a85420bdd11eba7f7acde48001122",
+    "f6582e180bae11ebab90acde48001122",
+    "a8d938b80bda11eba7f7acde48001122",
+    "98f734a60bdd11eba7f7acde48001122",
+    "37a7af5a0bb011ebab90acde48001122"
+  ]
+}

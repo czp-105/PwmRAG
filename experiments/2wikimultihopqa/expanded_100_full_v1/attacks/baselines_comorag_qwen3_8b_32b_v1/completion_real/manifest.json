@@ -1,0 +1,14 @@
+{
+  "prompt_version": "kidnaprag_completion_real_v1",
+  "document_strategy": "completion_real",
+  "attack_goal": "targeted_hijacking",
+  "workflow": "comorag",
+  "attacker_model": "Qwen/Qwen3-32B",
+  "trajectory_file": "/home/zpc/projects/RAG/PwmRAG/experiments/2wikimultihopqa/expanded_100_full_v1/attacks/comorag_qwen3_8b_clean_trajectories.jsonl",
+  "trajectory_file_sha256": "1f7cea6b95616290921c191023eeeb13b500f6485de7f3d8d412e711b659a0c2",
+  "selected": 99,
+  "generated": 99,
+  "skipped": 0,
+  "errors": 0,
+  "results_file": "/home/zpc/projects/RAG/PwmRAG/experiments/2wikimultihopqa/expanded_100_full_v1/attacks/baselines_comorag_qwen3_8b_32b_v1/completion_real/generation_results.jsonl"
+}

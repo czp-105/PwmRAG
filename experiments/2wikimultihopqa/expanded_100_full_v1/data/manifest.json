@@ -1,0 +1,7 @@
+{
+  "source": "/home/zpc/projects/RAG/PwmRAG/datasets/2wikimultihopqa",
+  "seed": 42,
+  "questions": 100,
+  "documents": 6119,
+  "selection": "two-support questions plus random distractors"
+}
