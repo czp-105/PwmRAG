@@ -1,8 +1,0 @@
-{
-  "dataset": "hotpotqa_trustrag",
-  "source": "/home/zpc/projects/RAG/TrustRAG",
-  "seed": 42,
-  "questions": 10,
-  "documents": 9811,
-  "selection": "first TrustRAG attack targets plus all supports and reservoir distractors"
-}
